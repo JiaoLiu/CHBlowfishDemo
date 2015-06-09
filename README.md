@@ -12,9 +12,9 @@ Just copy the CHBlowfish Dir into your Project!!<br>
     NSLog(@"%@",[fish encrypt:@"****"]);
     NSLog(@"%@",[fish decrypt:@"****");
 
--Liu jiao <br>
+-Jiao <br>
 -2015/6/9 <br>
 
 Screenshots
 
-![image](https://github.com/JiaoLiu/CHCalendar/blob/master/Screenshot/main.png)
+![image](https://github.com/JiaoLiu/CHBlowfishDemo/blob/master/ScreenShot.png)
