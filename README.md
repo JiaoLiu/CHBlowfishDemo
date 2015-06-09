@@ -12,6 +12,8 @@ Just copy the CHBlowfish Dir into your Project!!<br>
     NSLog(@"%@",[fish encrypt:@"****"]);
     NSLog(@"%@",[fish decrypt:@"****");
 
+Notice: ONLY SUPPORT ASCII CAPABLE WORD ENCRYPT&DECRYPT RIGHT NOW!!<br> 
+
 -Jiao <br>
 -2015/6/9 <br>
 
